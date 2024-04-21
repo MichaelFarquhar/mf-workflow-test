@@ -16,6 +16,14 @@ npm install
 node index.js
 ```
 
+## Running The Command
+
+While this project serves no real purpose, you can still choose to run this command if you wish. It can be done so quickly using `npx`.
+
+```bash
+npx mf-workflow-test
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.

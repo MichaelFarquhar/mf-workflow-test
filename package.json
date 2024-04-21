@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "This project servers no functional purpose, but rather was used to help me deepen my understanding of using github action workflows to automate the publishing of packages to NPM.",
   "main": "index.js",
-  "type": "module",
   "bin": {
     "mf-workflow-test": "index.js"
   },
