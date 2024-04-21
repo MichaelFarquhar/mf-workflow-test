@@ -1,17 +1,17 @@
 {
-  "name": "npm-workflow-test",
+  "name": "mf-workflow-test",
   "version": "1.0.0",
   "description": "This project servers no functional purpose, but rather was used to help me deepen my understanding of using github action workflows to automate the publishing of packages to NPM.",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "npm-workflow-test": "index.js"
+    "mf-workflow-test": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/MichaelFarquhar/npm-workflow-test",
-  "homepage": "https://github.com/MichaelFarquhar/npm-workflow-test#readme",
+  "repository": "https://github.com/MichaelFarquhar/mf-workflow-test",
+  "homepage": "https://github.com/MichaelFarquhar/mf-workflow-test#readme",
   "keywords": [
     "cli",
     "educational",

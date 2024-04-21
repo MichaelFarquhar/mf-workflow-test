@@ -13,7 +13,7 @@ function colorBlue(text) {
 }
 
 program
-  .name("npm-workflow-test")
+  .name("mf-workflow-test")
   .version(packageJson.version, "-v, --version")
   .description("Outputs the current package version.")
   .action(() => {
